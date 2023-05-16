@@ -1,0 +1,10 @@
+# Node
+node_modules/
+
+# Environment variables
+.env
+
+# Database
+*.db
+*.db-journal
+migration_lock.toml
