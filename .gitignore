@@ -8,3 +8,7 @@ node_modules/
 *.db
 *.db-journal
 migration_lock.toml
+
+# Uploads
+uploads/*
+!uploads/.gitkeep
